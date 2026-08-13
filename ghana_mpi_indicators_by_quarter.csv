@@ -1,0 +1,197 @@
+quarter,indicator,deprivation_pct
+2022-Q1,Overall MPI Incidence,28.3
+2022-Q2,Overall MPI Incidence,32.4
+2022-Q3,Overall MPI Incidence,32.3
+2022-Q4,Overall MPI Incidence,31.7
+2023-Q1,Overall MPI Incidence,28.3
+2023-Q2,Overall MPI Incidence,27.7
+2023-Q3,Overall MPI Incidence,28.6
+2023-Q4,Overall MPI Incidence,27.4
+2024-Q1,Overall MPI Incidence,24.0
+2024-Q2,Overall MPI Incidence,28.5
+2024-Q3,Overall MPI Incidence,24.9
+2024-Q4,Overall MPI Incidence,24.9
+2025-Q2,Overall MPI Incidence,23.1
+2025-Q3,Overall MPI Incidence,21.9
+2022-Q1,School attainment,0.8
+2022-Q2,School attainment,0.8
+2022-Q3,School attainment,0.6
+2022-Q4,School attainment,0.9
+2023-Q1,School attainment,0.8
+2023-Q2,School attainment,0.9
+2023-Q3,School attainment,0.8
+2023-Q4,School attainment,0.6
+2024-Q1,School attainment,0.7
+2024-Q2,School attainment,0.7
+2024-Q3,School attainment,0.6
+2024-Q4,School attainment,0.6
+2025-Q2,School attainment,0.8
+2025-Q3,School attainment,1.0
+2022-Q1,Electricity,6.9
+2022-Q2,Electricity,7.5
+2022-Q3,Electricity,9.1
+2022-Q4,Electricity,8.6
+2023-Q1,Electricity,8.7
+2023-Q2,Electricity,8.8
+2023-Q3,Electricity,9.0
+2023-Q4,Electricity,8.1
+2024-Q1,Electricity,8.0
+2024-Q2,Electricity,8.7
+2024-Q3,Electricity,8.6
+2024-Q4,Electricity,8.4
+2025-Q2,Electricity,5.7
+2025-Q3,Electricity,6.1
+2022-Q1,Employed,7.8
+2022-Q2,Employed,10.2
+2022-Q3,Employed,7.9
+2022-Q4,Employed,8.5
+2023-Q1,Employed,5.8
+2023-Q2,Employed,5.4
+2023-Q3,Employed,5.0
+2023-Q4,Employed,5.0
+2024-Q1,Employed,5.2
+2024-Q2,Employed,5.6
+2024-Q3,Employed,5.3
+2024-Q4,Employed,4.1
+2025-Q2,Employed,3.8
+2025-Q3,Employed,4.5
+2022-Q1,Cooking fuel,9.3
+2022-Q2,Cooking fuel,10.1
+2022-Q3,Cooking fuel,11.6
+2022-Q4,Cooking fuel,9.8
+2023-Q1,Cooking fuel,9.1
+2023-Q2,Cooking fuel,9.0
+2023-Q3,Cooking fuel,10.0
+2023-Q4,Cooking fuel,10.3
+2024-Q1,Cooking fuel,7.4
+2024-Q2,Cooking fuel,9.0
+2024-Q3,Cooking fuel,8.0
+2024-Q4,Cooking fuel,8.6
+2025-Q2,Cooking fuel,9.4
+2025-Q3,Cooking fuel,8.4
+2022-Q1,School attendance,9.3
+2022-Q2,School attendance,10.3
+2022-Q3,School attendance,10.4
+2022-Q4,School attendance,9.7
+2023-Q1,School attendance,8.5
+2023-Q2,School attendance,7.0
+2023-Q3,School attendance,8.2
+2023-Q4,School attendance,8.9
+2024-Q1,School attendance,8.0
+2024-Q2,School attendance,8.5
+2024-Q3,School attendance,8.7
+2024-Q4,School attendance,9.1
+2025-Q2,School attendance,7.0
+2025-Q3,School attendance,9.4
+2022-Q1,Drinking water,9.9
+2022-Q2,Drinking water,9.9
+2022-Q3,Drinking water,10.2
+2022-Q4,Drinking water,9.6
+2023-Q1,Drinking water,9.5
+2023-Q2,Drinking water,9.2
+2023-Q3,Drinking water,9.1
+2023-Q4,Drinking water,8.7
+2024-Q1,Drinking water,8.4
+2024-Q2,Drinking water,8.6
+2024-Q3,Drinking water,8.0
+2024-Q4,Drinking water,7.8
+2025-Q2,Drinking water,6.8
+2025-Q3,Drinking water,6.3
+2022-Q1,Assets,11.8
+2022-Q2,Assets,15.1
+2022-Q3,Assets,13.1
+2022-Q4,Assets,13.2
+2023-Q1,Assets,15.0
+2023-Q2,Assets,14.6
+2023-Q3,Assets,10.4
+2023-Q4,Assets,10.2
+2024-Q1,Assets,9.2
+2024-Q2,Assets,10.5
+2024-Q3,Assets,5.5
+2024-Q4,Assets,7.8
+2025-Q2,Assets,9.8
+2025-Q3,Assets,9.5
+2022-Q1,Nutrition,12.9
+2022-Q2,Nutrition,14.4
+2022-Q3,Nutrition,16.1
+2022-Q4,Nutrition,15.5
+2023-Q1,Nutrition,13.9
+2023-Q2,Nutrition,13.2
+2023-Q3,Nutrition,15.4
+2023-Q4,Nutrition,14.1
+2024-Q1,Nutrition,10.6
+2024-Q2,Nutrition,15.1
+2024-Q3,Nutrition,13.3
+2024-Q4,Nutrition,13.4
+2025-Q2,Nutrition,15.8
+2025-Q3,Nutrition,10.6
+2022-Q1,Overcrowding,14.1
+2022-Q2,Overcrowding,15.8
+2022-Q3,Overcrowding,17.4
+2022-Q4,Overcrowding,16.3
+2023-Q1,Overcrowding,14.6
+2023-Q2,Overcrowding,13.3
+2023-Q3,Overcrowding,14.4
+2023-Q4,Overcrowding,14.8
+2024-Q1,Overcrowding,12.4
+2024-Q2,Overcrowding,14.1
+2024-Q3,Overcrowding,12.2
+2024-Q4,Overcrowding,12.5
+2025-Q2,Overcrowding,11.4
+2025-Q3,Overcrowding,21.6
+2022-Q1,School lag,15.7
+2022-Q2,School lag,18.5
+2022-Q3,School lag,20.2
+2022-Q4,School lag,19.5
+2023-Q1,School lag,17.2
+2023-Q2,School lag,17.8
+2023-Q3,School lag,19.2
+2023-Q4,School lag,16.4
+2024-Q1,School lag,14.1
+2024-Q2,School lag,19.4
+2024-Q3,School lag,15.3
+2024-Q4,School lag,15.5
+2025-Q2,School lag,7.9
+2025-Q3,School lag,3.9
+2022-Q1,Housing,18.2
+2022-Q2,Housing,17.8
+2022-Q3,Housing,17.9
+2022-Q4,Housing,18.3
+2023-Q1,Housing,18.8
+2023-Q2,Housing,18.5
+2023-Q3,Housing,19.1
+2023-Q4,Housing,17.8
+2024-Q1,Housing,15.4
+2024-Q2,Housing,17.8
+2024-Q3,Housing,16.1
+2024-Q4,Housing,16.6
+2025-Q2,Housing,14.8
+2025-Q3,Housing,14.5
+2022-Q1,Toilet facility,26.4
+2022-Q2,Toilet facility,27.0
+2022-Q3,Toilet facility,29.6
+2022-Q4,Toilet facility,28.4
+2023-Q1,Toilet facility,26.3
+2023-Q2,Toilet facility,25.6
+2023-Q3,Toilet facility,26.6
+2023-Q4,Toilet facility,25.0
+2024-Q1,Toilet facility,22.5
+2024-Q2,Toilet facility,26.0
+2024-Q3,Toilet facility,23.0
+2024-Q4,Toilet facility,23.1
+2025-Q2,Toilet facility,21.6
+2025-Q3,Toilet facility,20.7
+2022-Q1,Health insurance,26.5
+2022-Q2,Health insurance,30.7
+2022-Q3,Health insurance,30.5
+2022-Q4,Health insurance,29.6
+2023-Q1,Health insurance,26.7
+2023-Q2,Health insurance,26.0
+2023-Q3,Health insurance,26.7
+2023-Q4,Health insurance,26.1
+2024-Q1,Health insurance,22.2
+2024-Q2,Health insurance,26.0
+2024-Q3,Health insurance,23.0
+2024-Q4,Health insurance,23.3
+2025-Q2,Health insurance,21.3
+2025-Q3,Health insurance,19.5
